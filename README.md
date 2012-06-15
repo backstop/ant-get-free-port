@@ -1,9 +1,9 @@
 Purpose
 =======
 
-During the build, some tasks require a server to be started (js-test-driver, fitnesse, etc.), but the port the server uses doesn't matter.
+During builds, some tasks require a server to be started (js-test-driver, fitnesse, etc.), but the port the server uses doesn't matter.
 If the port number is hardcoded, then two builds can't run on the same machine concurrently.
-Use get-free-port to grab a random free port to use instead.
+Use get-free-port to grab a random free port number to use instead.
 
 Usage
 =====
