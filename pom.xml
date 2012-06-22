@@ -4,7 +4,7 @@
 
   <groupId>com.backstopsolutions</groupId>
   <artifactId>ant-get-free-port</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>ant-get-free-port</name>
