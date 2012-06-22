@@ -22,7 +22,8 @@
 
   <scm>
     <url>https://github.com/backstop/ant-get-free-port</url>
-    <connection>scm:git:https://github.com/backstop/ant-get-free-port.git</connection>
+    <connection>scm:git:git@github.com:backstop/ant-get-free-port.git</connection>
+    <developerConnection>scm:git:git@github.com:backstop/ant-get-free-port.git</developerConnection>
   </scm>
 
   <organization>
